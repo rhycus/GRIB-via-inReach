@@ -9,7 +9,7 @@ If you'd like to buy me a beer, my venmo is @FinbarC.
 
 I tested and wrote this code within a matter of a few days, thus there may be BUGS and INEFFICIENCIES which I have not resolved. I do not have a software engineering background, so consider this hodgepodge coding! If you use this software, there are some quirks which you need to be aware of. Please read this entire document and walk through the code. I haven't tested this since November 2022.
 
-OFFSHORE SAILING IS A SERIOUS AND DANGEROUS UNDERTAKING AND ACCURATE WEATHER DATA IS CRITICALLY IMPORTANT. YOU USE THIS SOFTWARE ARE YOUR OWN RISK.
+**OFFSHORE SAILING IS A SERIOUS AND DANGEROUS UNDERTAKING AND ACCURATE WEATHER DATA IS CRITICALLY IMPORTANT. YOU USE THIS SOFTWARE ARE YOUR OWN RISK.**
 
 ## OVERVIEW
 
