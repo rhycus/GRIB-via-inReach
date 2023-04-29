@@ -54,7 +54,7 @@ Here is an example of what would be sent from the aforementioned request (explan
 **Message 1**
 ```
 12,24,36,48   <--- Time points
-2022-11-17 12:00:00   <--- Model run time
+2022-11-17 12:00:00   <--- Model run time (Zulu time)
 24.0,36.0,-72.0,-58.0   <--- Latitude and longitude
 2.0,2.0   <--- Lat/lon intervals
 1   <--- The encoding shift
