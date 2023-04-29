@@ -27,7 +27,7 @@ This would request data according to the GFS model (the ECWMF model can also be 
 
 It is important to not request too big of an area or too many time points. The above string (4 points in time, 5 x 6 grid) was sent over 3 texts. Thus, to be practical, this system needs to be used with the unlimited Garmin inReach subscription.
 
-### RECEIVING SERVICE
+## RECEIVING SERVICE
 
 I used Python Anywhere (http://www.pythonanywhere.com) to run main.py. Unfortunately, I lost information about how I created the Python environment, but I believe it used the following dependencies, which can be installed via pip.
 
